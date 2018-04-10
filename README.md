@@ -1,2 +1,3 @@
 # hello-world
 my first repository to store ideas &amp; resources
+I can even even share and discuss things with others... 
